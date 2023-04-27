@@ -1,0 +1,25 @@
+## Core options
+root = true  
+
+## Baseline options
+[*]  
+charset = utf-8  
+indent_style = tab  
+indent_size = 4  
+tab_width = 4  
+end_of_line = lf  
+insert_final_newline = true  
+trim_trailing_whitespace = true  
+
+## Markdown files
+[*.md]  
+trim_trailing_whitespace = false  
+indent_style = space  
+
+## Batch files
+[*.{cmd,bat}]  
+end_of_line = crlf  
+
+## Code files
+[*.{cs,csx,vb,vbx}]  
+charset = utf-8-bom  
