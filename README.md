@@ -33,6 +33,7 @@
 <p align="center">
     <br/>
     <a href="#license"><img alt="license link" src="https://img.shields.io/badge/-LICENSE-lightgrey?style=for-the-badge"/></a>
+    <a href="#contributing"><img alt="contributing guide link" src="https://img.shields.io/badge/-CONTRIBUTING-lightgrey?style=for-the-badge"/></a>
     <br/>
 </p>
 
@@ -42,4 +43,12 @@
 
 <p>
     The contents of this <a href="https://github.com/curriculum-blackboard/unreal-multiplayer-shooter/">repository</a> are free and open-sourced under the following <a href="LICENSE.md"><b>License</b></a>.
+</p>
+
+<h2>
+    <a id="contributing"> ✍️ Contributing</a>
+</h2>
+
+<p>
+    This is a learning project and will not be accepting any public contributions.
 </p>
