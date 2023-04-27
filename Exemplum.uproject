@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.1",
+	"Category": "",
+	"Description": "Exemplum is a learning project for Unreal Engine 5 C++ Multiplayer Shooter course on Udemy, developed by Impulse Interactive.",
+	"Modules":
+	[
+		{
+			"Name": "Exemplum",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies":
+			[
+				"Engine"
+			]
+		}
+	],
+	"Plugins":
+	[
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "VisualStudioTools",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/362651520df94e4fa65492dbcba44ae2",
+			"SupportedTargetPlatforms":
+			[
+				"Win64"
+			]
+		}
+	]
+}
